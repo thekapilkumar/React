@@ -1,1 +1,35 @@
-/node_modules
+# Node.js dependencies
+/node_modules/
+
+# Build artifacts
+/build/
+/dist/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE and OS specific files
+# Recommended: Ignore user-specific settings, but potentially keep shared workspace settings
+.vscode/settings.json # Ignore if you don't want to enforce shared VS Code settings
+.vscode/launch.json   # Ignore if you don't want to share debugger configurations
+# You might want to keep .vscode/extensions.json if you have recommended extensions for the project
+
+.DS_Store          # macOS specific files
+Thumbs.db          # Windows specific files
+
+# Other temporary files
+*.tmp
+*.temp
+
+# Coverage reports
+/coverage/

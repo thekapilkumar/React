@@ -1,0 +1,19 @@
+{
+  "name": "episode-02---igniting-our-app",
+  "version": "1.0.0",
+  "description": "Episode 02 from namaste react",
+  "keywords": [
+    "react",
+    "js"
+  ],
+  "license": "ISC",
+  "author": "kapil kumar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}

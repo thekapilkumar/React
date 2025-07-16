@@ -9,7 +9,7 @@
   "license": "ISC",
   "author": "kapil kumar",
   "type": "commonjs",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "jest"
   },

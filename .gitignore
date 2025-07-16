@@ -2,8 +2,8 @@
 /node_modules/
 **/node_modules/
 .parcel-cache
-/dist
-/coverage
+dist
+coverage
 
 # Build artifacts
 /build/

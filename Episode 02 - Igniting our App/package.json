@@ -10,6 +10,11 @@
   "author": "kapil kumar",
   "type": "commonjs",
   "main": "app.js",
+  "targets": {
+    "app": {
+      "source": "index.html"
+    }
+  },
   "scripts": {
     "test": "jest"
   },
